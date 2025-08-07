@@ -7,9 +7,11 @@ Non-Euclidean geometries in machine learning models are becoming a common tool t
 
 For this task, four datasets were utilized to assess our proposed methods: a real-world dataset from Kaggle and three synthetic datasets. The real-world dataset, called Animal Taxonomy and the three synthetic datasets are: Reuters5, a five-leveled categorical dataset, and Reuters7, a seven-leveled categorical dataset, and a heterogenous dataset. Poincare Embeddings learn hierarchical representations of symbolic data by embedding them into hyperbolic space– or more precisely into an n-dimensional Poincare ball (shown below) t-SNE visualisation of poincare embeddings image
 
+<img width="684" height="590" alt="image" src="https://github.com/user-attachments/assets/e3629b0d-dd21-4ff6-95cc-d923aa1b2b01" />
+
 Now, coming to the working, I used the poincare embeddings as data for the Hyperbolic Neural Networks, which were consturcted using Mobius arithmetic operations. Adaptive curvature and cross entropy loss functions were used to enhance the HNN. The details of this can be found in the paper linked above.
 
-<img width="684" height="590" alt="image" src="https://github.com/user-attachments/assets/e3629b0d-dd21-4ff6-95cc-d923aa1b2b01" />
+
 
 The results for this are as follows:
 
