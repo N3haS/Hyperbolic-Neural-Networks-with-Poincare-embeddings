@@ -1,0 +1,101 @@
+Level1,Level2,Level3,Level4,Level5,Level6,Level7
+Business,Finance,Banking,Retail Banking,Business Accounts,Account Management,Customer Service
+Business,Finance,Banking,Corporate Banking,Loans,Loan Processing,Credit Analysis
+Business,Marketing,Digital Marketing,Social Media Marketing,Campaign Management,Content Creation,Analytics
+Business,Marketing,Digital Marketing,Content Marketing,SEO Management,Keyword Research,Performance Tracking
+Business,Finance,Accounting,Tax Accounting,Corporate Tax,Tax Planning,Compliance Reporting
+Business,Finance,Accounting,Forensic Accounting,Fraud Investigation,Financial Audits,Evidence Collection
+Business,Finance,Investment,Wealth Management,Portfolio Management,Investment Strategy,Risk Assessment
+Business,Finance,Investment,Asset Management,Fund Management,Asset Allocation,Performance Monitoring
+Technology,IT,Software Development,Web Development,Front-End Development,UI/UX Design,User Testing
+Technology,IT,Software Development,Mobile Development,iOS Development,App Design,Feature Implementation
+Technology,IT,Cybersecurity,Network Security,Firewall Management,Intrusion Detection,Threat Analysis
+Technology,IT,Cybersecurity,Application Security,Vulnerability Assessment,Penetration Testing,Risk Mitigation
+Healthcare,Medicine,Surgery,Cardiothoracic Surgery,Heart Transplant,Preoperative Care,Postoperative Monitoring
+Healthcare,Medicine,Surgery,Neurosurgery,Brain Surgery,Surgical Planning,Recovery Management
+Business,Operations,Supply Chain,Logistics,Distribution Management,Fleet Coordination,Route Optimization
+Business,Operations,Supply Chain,Inventory Management,Stock Control,Demand Forecasting,Supply Planning
+Education,Teaching,Higher Education,University,Lecture Delivery,Student Engagement,Assessment Design
+Education,Teaching,Higher Education,College,Curriculum Development,Course Structuring,Quality Assurance
+Law,Corporate Law,Mergers and Acquisitions,Due Diligence,Legal Compliance,Contract Negotiation
+Law,Corporate Law,Intellectual Property,Patent Filing,IP Protection,Legal Disputes
+Business,Human Resources,Recruitment,Talent Acquisition,Candidate Screening,Interview Coordination,Hiring Decisions
+Business,Human Resources,Employee Relations,Conflict Resolution,Policy Development,Employee Support
+Retail,Sales,In-store Sales,Customer Service,Product Advising,Sales Assistance,Transaction Processing
+Retail,Sales,Online Sales,E-commerce Management,Product Listings,Order Fulfillment,Customer Interaction
+Engineering,Civil Engineering,Structural Engineering,Bridge Design,Load Calculation,Material Selection,Project Execution
+Engineering,Civil Engineering,Environmental Engineering,Waste Management,Environmental Impact,Regulatory Compliance
+Science,Biology,Microbiology,Virology,Virus Research,Lab Testing,Data Analysis
+Science,Biology,Genetics,Human Genetics,Genetic Counseling,DNA Sequencing,Risk Assessment
+Art,Visual Arts,Painting,Portrait Painting,Oil Painting,Technique Development,Exhibition Preparation
+Art,Visual Arts,Sculpture,Metal Sculpture,Abstract Art,Material Processing,Artistic Expression
+Music,Performance,Vocal Performance,Opera Singing,Voice Training,Repertoire Selection,Stage Performance
+Music,Performance,Instrumental Performance,Piano Recital,Technique Mastery,Piece Interpretation,Public Performance
+Sports,Athletics,Track and Field,Sprinting,100m Dash,Training Regimen,Competition Preparation
+Sports,Athletics,Track and Field,Long Jump,Technique Improvement,Strength Training,Event Participation
+Literature,Writing,Fiction,Novel Writing,Historical Fiction,Story Development,Editing Process
+Literature,Writing,Non-fiction,Biography Writing,Research Gathering,Narrative Structuring,Publication
+Media,Journalism,Print Journalism,Investigative Reporting,Source Verification,Story Writing,Editorial Approval
+Media,Journalism,Broadcast Journalism,News Anchoring,Script Preparation,Live Reporting,Audience Engagement
+Business,Customer Service,Call Center,Technical Support,Issue Resolution,Troubleshooting,Customer Feedback
+Business,Customer Service,Call Center,Customer Inquiry Handling,Call Management,Information Provision,Problem Solving
+Technology,Data Science,Machine Learning,Algorithm Development,Model Training,Data Analysis,Result Interpretation
+Technology,Data Science,Machine Learning,Model Training,Data Preparation,Feature Engineering,Performance Evaluation
+Technology,Cloud Computing,Infrastructure,Server Management,Deployment,Monitoring,Maintenance
+Technology,Cloud Computing,Infrastructure,Database Administration,Backup Management,Data Security,Performance Tuning
+Healthcare,Nursing,Pediatric Nursing,Childcare,Health Monitoring,Family Support,Medical Administration
+Healthcare,Nursing,Geriatric Nursing,Elderly Care,Chronic Disease Management,Mobility Assistance,Emotional Support
+Construction,Project Management,Residential Construction,Site Supervision,Timeline Coordination,Quality Assurance
+Construction,Project Management,Commercial Construction,Contract Management,Budget Control,Resource Allocation
+Entertainment,Film,Directing,Feature Films,Script Analysis,Scene Planning,Actor Direction
+Entertainment,Film,Producing,Independent Films,Funding Acquisition,Production Coordination,Distribution Planning
+Business,Strategy,Business Development,Market Expansion,Opportunity Analysis,Strategic Planning,Implementation
+Business,Strategy,Business Development,Partnership Building,Collaboration Identification,Negotiation,Agreement Execution
+Education,Research,Academic Research,Clinical Trials,Protocol Design,Participant Recruitment,Data Collection
+Education,Research,Academic Research,Field Studies,Hypothesis Formulation,Data Gathering,Result Analysis
+Agriculture,Farming,Crop Farming,Organic Farming,Soil Preparation,Planting,Harvesting
+Agriculture,Farming,Livestock Farming,Dairy Farming,Animal Care,Milk Production,Health Monitoring
+Environment,Conservation,Wildlife Conservation,Habitat Protection,Species Monitoring,Conservation Education
+Environment,Conservation,Environmental Policy,Legislative Advocacy,Policy Formulation,Impact Assessment
+Public Service,Government,Policy Making,Public Health Policy,Research Analysis,Policy Drafting,Implementation
+Public Service,Government,Policy Making,Economic Policy,Data Review,Policy Development,Outcome Evaluation
+Engineering,Mechanical Engineering,Automotive Engineering,Engine Design,Component Testing,Performance Analysis
+Engineering,Mechanical Engineering,Aerospace Engineering,Aircraft Design,Aerodynamics Testing,Safety Compliance
+Business,Sales,Business to Business,Client Management,Relationship Building,Contract Negotiation,Sales Closure
+Business,Sales,Business to Consumer,Direct Sales,Prospecting,Product Presentation,Transaction Finalization
+Real Estate,Property Management,Commercial Property,Lease Management,Tenant Relations,Maintenance Coordination
+Real Estate,Property Management,Residential Property,Tenant Relations,Lease Agreements,Property Maintenance
+Fashion,Design,Clothing Design,Haute Couture,Sketching,Fabric Selection,Garment Creation
+Fashion,Design,Accessory Design,Jewelry Design,Concept Development,Material Sourcing,Crafting
+Transportation,Logistics,Freight Forwarding,Cargo Management,Route Planning,Shipment Coordination,Delivery Tracking
+Transportation,Logistics,Supply Chain Management,Route Planning,Resource Allocation,Delivery Optimization
+Hospitality,Hotel Management,Front Office,Guest Services,Check-in/out,Reservation Management,Customer Satisfaction
+Hospitality,Hotel Management,Food and Beverage,Restaurant Management,Menu Planning,Staff Coordination,Quality Control
+Tourism,Travel Agency,Tour Operations,Group Tours,Itinerary Planning,Booking Coordination,Customer Support
+Tourism,Travel Agency,Custom Travel Planning,Itinerary Creation,Activity Arrangement,Travel Assistance
+Food and Beverage,Restaurant,Culinary Arts,Pastry Chef,Recipe Development,Ingredient Selection,Baking Execution
+Food and Beverage,Restaurant,Culinary Arts,Sous Chef,Kitchen Management,Menu Planning,Food Preparation
+Science,Physics,Theoretical Physics,Quantum Mechanics,Theory Development,Mathematical Modeling,Experiment Planning
+Science,Physics,Experimental Physics,Particle Physics,Experiment Design,Data Collection,Analysis
+Technology,Networking,Wireless Networking,Network Security,Configuration,Monitoring,Threat Management
+Technology,Networking,Wired Networking,LAN Management,Setup,Maintenance,Optimization
+Social Services,Counseling,Family Counseling,Marriage Therapy,Assessment,Intervention,Follow-up
+Social Services,Counseling,Substance Abuse Counseling,Assessment,Treatment Planning,Support Services
+Business,Legal,Contract Management,Vendor Contracts,Drafting,Negotiation,Compliance
+Business,Legal,Compliance,Regulatory Compliance,Policy Development,Training,Monitoring
+Non-profit,Fundraising,Donor Relations,Grant Writing,Proposal Development,Submission,Reporting
+Non-profit,Fundraising,Event Management,Planning,Coordination,Execution
+Education,Administration,School Administration,Policy Implementation,Planning,Monitoring,Reporting
+Education,Administration,School Administration,Curriculum Coordination,Development,Implementation,Review
+Healthcare,Therapy,Physical Therapy,Sports Injury Rehabilitation,Assessment,Treatment,Follow-up
+Healthcare,Therapy,Occupational Therapy,Pediatric Therapy,Assessment,Intervention,Progress Monitoring
+Media,Production,Television Production,Reality Shows,Concept Development,Casting,Filming
+Media,Production,Film Production,Documentary Films,Research,Filming,Editing
+Business,Analytics,Data Analytics,Business Intelligence,Data Collection,Analysis,Reporting
+Business,Analytics,Data Analytics,Predictive Analytics,Data Preparation,Modeling,Evaluation
+Technology,Artificial Intelligence,Natural Language Processing,Chatbots,Design,Training,Implementation
+Technology,Artificial Intelligence,Computer Vision,Image Recognition,Data Collection,Model Training,Testing
+Energy,Renewable Energy,Solar Energy,Solar Panel Installation,Site Assessment,System Design,Implementation
+Energy,Renewable Energy,Wind Energy,Turbine Maintenance,Inspection,Repair,Optimization
+Manufacturing,Production,Automotive Manufacturing,Assembly Line Management,Process Design,Quality Control
+Manufacturing,Production,Electronics Manufacturing,Quality Control,Testing,Compliance,Improvement
